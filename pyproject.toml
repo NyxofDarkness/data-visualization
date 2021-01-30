@@ -7,6 +7,8 @@ authors = ["NyxofDarkness <ibelieve.as@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^1.2.1"
+matplotlib = "^3.3.3"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
